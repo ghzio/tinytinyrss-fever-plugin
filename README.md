@@ -118,3 +118,5 @@ v1.4.6 - 2014/1/15
 v1.4.7 - 2014/1/15
 
 * added rewrite url function to module, since it was removed from tinytinyrss
+
+The fixes mentioned in [this forum thread](https://discourse.tt-rss.org/t/fix-for-fever-plugin-after-tt-rss-changes-on-4-may-2017/143) were applied.
